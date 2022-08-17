@@ -9,5 +9,5 @@ Simple usage can be something like
 ```
 Items in stock will be shown in green.
 Pre-Owned items will be shown in yellow.
-Items that cannot be wrapper will result in an unknown status. This kind of items will be output in red.
+Items that cannot be wrapped will result in an unknown status. This kind of items will be output in red.
 
